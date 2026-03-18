@@ -21,18 +21,18 @@
       "name": "Registrar Refeição",
       "short_name": "Registrar",
       "url": "/Bebe-app/index.html#log",
-      "icons": [{ "src": "/Bebe-app/icon-192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "/Bebe-app/alimentar.png", "sizes": "192x192" }]
     },
     {
       "name": "Ver Cronograma",
       "short_name": "Cronograma",
       "url": "/Bebe-app/index.html#home",
-      "icons": [{ "src": "/Bebe-app/icon-192.png", "sizes": "192x192" }]
+      "icons": [{ "src": "/Bebe-app/introducao.png", "sizes": "192x192" }]
     }
   ],
   "screenshots": [
     {
-      "src": "/Bebe-app/screenshot-home.png",
+      "src": "/Bebe-app/introducao.png",
       "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "narrow",
