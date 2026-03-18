@@ -2,16 +2,23 @@
   "name": "Introdução Alimentar",
   "short_name": "Bebê Alimentar",
   "description": "Cronograma completo de introdução alimentar para bebês de 6 meses",
+  "id": "/Bebe-app/",
   "start_url": "/Bebe-app/index.html",
   "scope": "/Bebe-app/",
   "display": "standalone",
-  "display_override": ["standalone", "minimal-ui"],
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
   "background_color": "#FDF6ED",
   "theme_color": "#7A9E7E",
   "orientation": "portrait-primary",
   "lang": "pt-BR",
   "dir": "ltr",
-  "categories": ["health", "lifestyle"],
+  "categories": [
+    "health",
+    "lifestyle"
+  ],
   "prefer_related_applications": false,
   "iarc_rating_id": "e84b072d-71b3-4d3e-86ae-31a8ce4e53b7",
   "launch_handler": {
