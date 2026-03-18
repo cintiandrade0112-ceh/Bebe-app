@@ -6,13 +6,13 @@
   "start_url": "/Bebe-app/index.html",
   "scope": "/Bebe-app/",
   "display": "standalone",
-  "display_override": ["standalone", "minimal-ui"]
+  "display_override": ["standalone", "minimal-ui"],
   "background_color": "#FDF6ED",
   "theme_color": "#7A9E7E",
   "orientation": "portrait-primary",
   "lang": "pt-BR",
   "dir": "ltr",
-  "categories": ["health", "lifestyle"],
+  "categories": ["food", "health", "lifestyle"],
   "prefer_related_applications": false,
   "iarc_rating_id": "e84b072d-71b3-4d3e-86ae-31a8ce4e53b7",
   "launch_handler": { "client_mode": "focus-existing" },
@@ -28,6 +28,22 @@
       "short_name": "Cronograma",
       "url": "/Bebe-app/index.html#home",
       "icons": [{ "src": "/Bebe-app/icon-192.png", "sizes": "192x192" }]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/Bebe-app/screenshot-home.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Tela inicial com cronograma do dia"
+    },
+    {
+      "src": "/Bebe-app/screenshot-register.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Tela de registro de refeição"
     }
   ],
   "icons": [
