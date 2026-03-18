@@ -30,16 +30,16 @@
       "icons": [{ "src": "/Bebe-app/introducao.png", "sizes": "192x192" }]
     }
   ],
-  "screenshots": [
+ "screenshots": [
     {
-      "src": "/Bebe-app/introducao.png",
+      "src": "/Bebe-app/screenshot-home.png",
       "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Tela inicial com cronograma do dia"
     },
     {
-      "src": "/Bebe-app/alimentar.png",
+      "src": "/Bebe-app/screenshot-register.png",
       "sizes": "1080x1920",
       "type": "image/png",
       "form_factor": "narrow",
