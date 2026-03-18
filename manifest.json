@@ -11,12 +11,7 @@
   "lang": "pt-BR",
   "categories": ["health", "lifestyle"],
   "icons": [
-    {
-      "src": "/Bebe-app/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
-    },
+   
     {
       "src": "/Bebe-app/icon-512.png",
       "sizes": "512x512",
