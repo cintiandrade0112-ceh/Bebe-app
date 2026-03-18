@@ -15,9 +15,7 @@
   "categories": ["health", "lifestyle"],
   "prefer_related_applications": false,
   "iarc_rating_id": "e84b072d-71b3-4d3e-86ae-31a8ce4e53b7",
-  "launch_handler": {
-    "client_mode": "focus-existing"
-  },
+  "launch_handler": { "client_mode": "focus-existing" },
   "shortcuts": [
     {
       "name": "Registrar Refeição",
@@ -30,6 +28,22 @@
       "short_name": "Cronograma",
       "url": "/Bebe-app/index.html#home",
       "icons": [{ "src": "/Bebe-app/icon-192.png", "sizes": "192x192" }]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/Bebe-app/screenshot-narrow.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Cronograma de introdução alimentar"
+    },
+    {
+      "src": "/Bebe-app/screenshot-wide.png",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Cronograma de introdução alimentar"
     }
   ],
   "icons": [
