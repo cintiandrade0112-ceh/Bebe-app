@@ -6,13 +6,7 @@
   "start_url": "/Bebe-app/index.html",
   "scope": "/Bebe-app/",
   "display": "standalone",
-  "display_override": [
-      "standalone",
-      "minimal-ui",
-      "fullscreen",
-      "window-controls-overlay",
-      "browser"
-    ],
+  "display_override": ["standalone", "minimal-ui"]
   "background_color": "#FDF6ED",
   "theme_color": "#7A9E7E",
   "orientation": "portrait-primary",
